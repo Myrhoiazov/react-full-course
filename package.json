@@ -2,7 +2,7 @@
   "name": "bootcamp-24-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Myrhoiazov.github.io/react-full-course",
+  "homepage": "https://Myrhoiazov.github.io/react-full-course/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.5",
     "@tanstack/react-query": "^4.7.1",
