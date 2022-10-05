@@ -39,7 +39,7 @@ export const App = () => {
   }, [dispatch, status]);
 
   return (
-    <BrowserRouter basename="/bootcamp-24-react/">
+    <BrowserRouter basename="/react-full-course/">
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<HomePage />} />
